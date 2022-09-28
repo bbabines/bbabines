@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brad!
-- 👀 I’m interested in ... Creating digital tools to improve collective intelligence
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... Learning best practices for coding.
+- 👀 I’m interested in ... XR, VR, immersive experiences, and building digital tools for collective intelligence
+- 🌱 I’m currently learning ... three.js
+- 💞️ I’m looking to collaborate on ... immersive web sites.
 - 📫 How to reach me ... bbabines@gmail.com
 
 
