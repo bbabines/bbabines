@@ -6,10 +6,10 @@ Front End Software Engineer
 
 * 🌍  I'm based in The United States
 * ✉️  You can contact me at [bbabines@gmail.com](mailto:bbabines@gmail.com)
-* 🚀  I'm currently working on an immersive, RPG style, portfolio using three.js and r3f.
-* 🧠  I'm learning Typescript and Next.js
-* 🤝  I'm open to collaborating on Immersive content and opensource projects
-* ⚡  I'm also really interested in collective intelligence
+* 🚀  I'm currently working on a collective intelligence app.
+* 🧠  I'm learning Typescript.
+* 🤝  I'm open to collaborating on immersive content and opensource projects
+* ⚡  I'm also really into digital commons such as Wikipedia.
 
 ### Skills
 
