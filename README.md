@@ -1,11 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brad Babines
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brad B.
 ====================================================================================================================================
 
 Front End Software Engineer
 ---------------------------
 
 * 🌍  I'm based in The United States
-* ✉️  You can contact me at [bbabines@gmail.com](mailto:bbabines@gmail.com)
 * 🚀  I'm currently working for an ecomm business implementing 3D functionality to products.
 * 🧠  I'm improving my GLSL skills.
 * 🤝  I'm open to collaborating on immersive content and opensource projects
