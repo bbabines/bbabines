@@ -6,8 +6,8 @@ Front End Software Engineer
 
 * 🌍  I'm based in The United States
 * ✉️  You can contact me at [bbabines@gmail.com](mailto:bbabines@gmail.com)
-* 🚀  I'm currently working on a SPA for a startup.
-* 🧠  I'm learning GLSL.
+* 🚀  I'm currently working for an ecomm business implementing 3D functionality to products.
+* 🧠  I'm improving my GLSL skills.
 * 🤝  I'm open to collaborating on immersive content and opensource projects
 * ⚡  I'm also really into digital commons such as Wikipedia.
 
