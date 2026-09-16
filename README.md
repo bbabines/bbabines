@@ -1,6 +1,4 @@
-# Brad Babines
-
-### Frontend engineering · Real-time 3D · AI developer tools
+# Frontend engineering · Real-time 3D · AI developer tools
 
 I build interactive 3D applications and tools that help people create with them.
 
